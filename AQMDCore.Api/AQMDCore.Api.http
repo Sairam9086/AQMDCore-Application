@@ -1,0 +1,6 @@
+@AQMDCore.Api_HostAddress = http://localhost:5042
+
+GET {{AQMDCore.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
