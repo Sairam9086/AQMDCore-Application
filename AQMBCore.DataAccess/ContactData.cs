@@ -12,6 +12,8 @@ namespace AQMBCore.DataAccess
 {
     public class ContactData
     {
+
+        //Suresh Commented
         DbConnectors db = new DbConnectors();
         public AQMDContact ContactDetails(int FacilityID, string SystemType)
         {
