@@ -8,7 +8,7 @@ namespace AQMDCore.DataModels
 {
     public class AQMDContact
     {
-        //I make changes review
+        //kalyan changed filed
         /// <summary>
 
         /// 	This property represents the first name of the contact person.
